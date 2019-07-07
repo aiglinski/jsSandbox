@@ -10,7 +10,7 @@
 console.log(document.querySelector('#elementid'));
 console.log(document.querySelector('.elementClass'));
 // WILL SELECT ONLY FIRST H1
-console.log(document.querySelector('tag name'));
+console.log(document.querySelector('tag name '));
 
 // DOM SELECTORS FOR MULTIPLE ELEMENTS
 
