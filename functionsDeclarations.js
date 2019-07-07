@@ -43,6 +43,5 @@ const todo = {
   }
 };
 
-console.log(typeof todo.add);
 // call method
 todo.add();
